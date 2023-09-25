@@ -22,8 +22,8 @@ To install this application, please follow the instructions below:
 Once the server has started, head over to your URL and type in `https://edit-the-text-76b2792c159e.herokuapp.com/`\
 ![Online](./imgs/online.png)
 The application should be deployed. Go ahead and type in your desired text.\
+Once you install this application on your desktop, you can now use this site to its potential.\
 You can refresh the webpage and your text should remain there. \
-You can also install the application on your computer as well.
 ![Desktop](./imgs/desktop.png)
 
 ## Credits
