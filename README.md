@@ -1,5 +1,6 @@
 # EditTheText
 
+This text editor was created to insert text and save it even offline. This was done as a progressive web application. We initialized this progressive web application using webpack and we registered it as a service work.
 
 ## Table of Contents
 - [Installation](#installation)
